@@ -315,5 +315,4 @@ This project is licensed under the [MIT License](./LICENSE) — see the file for
 
 🌐 Contact
 Team Invoice AI
-📧 [worldget491@gmail.com](mailto:worldget491@gmail.com)  
-🌍 [GitHub Repository](https://github.com/Helloworld880/invoice_payment_Python)
+🌍 [GitHub Repository](https://github.com/Yashdudhani/invoice_payment_Python)
